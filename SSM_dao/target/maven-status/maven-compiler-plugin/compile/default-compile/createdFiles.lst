@@ -1,0 +1,11 @@
+com\liujiajun\dao\ISysLogDao.class
+com\liujiajun\dao\IOrdersDao.class
+com\liujiajun\dao\IUserDao.class
+com\liujiajun\dao\IUsers_RoleDao.class
+com\liujiajun\dao\ITravellerDao.class
+com\liujiajun\dao\IRole_PermissionDao.class
+com\liujiajun\dao\IMemberDao.class
+com\liujiajun\dao\IRoleDao.class
+com\liujiajun\dao\IPermissionDao.class
+com\liujiajun\dao\IProductDao.class
+com\liujiajun\dao\IOrder_TravellerDao.class

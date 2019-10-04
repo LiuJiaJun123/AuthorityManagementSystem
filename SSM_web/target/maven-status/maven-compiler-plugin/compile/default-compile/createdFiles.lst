@@ -1,0 +1,7 @@
+com\liujiajun\controller\PermissionController.class
+com\liujiajun\controller\LogAop.class
+com\liujiajun\controller\RoleController.class
+com\liujiajun\controller\UserController.class
+com\liujiajun\controller\OrdersController.class
+com\liujiajun\controller\SysLogController.class
+com\liujiajun\controller\ProductController.class

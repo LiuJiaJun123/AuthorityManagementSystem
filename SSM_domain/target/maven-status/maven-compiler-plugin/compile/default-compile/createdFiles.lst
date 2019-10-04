@@ -1,0 +1,10 @@
+com\liujiajun\domain\Orders.class
+com\liujiajun\domain\Member.class
+com\liujiajun\domain\Product.class
+com\liujiajun\domain\Traveller.class
+com\liujiajun\domain\CheckUsername.class
+com\liujiajun\domain\UserInfo.class
+com\liujiajun\domain\SysLog.class
+com\liujiajun\domain\Role.class
+com\liujiajun\domain\Users_Role.class
+com\liujiajun\domain\Permission.class
