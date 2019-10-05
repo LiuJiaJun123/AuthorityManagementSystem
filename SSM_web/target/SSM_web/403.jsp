@@ -80,7 +80,7 @@
                     <h3><i class="fa fa-warning text-yellow"></i> Oops! 权限不足.</h3>
 
                     <p>
-                        你没有该权限, 可以 <a href="index.jsp">返回到后台首页</a>
+                        你没有该权限, 可以 <a href="${pageContext.request.contextPath}/index.jsp">返回到后台首页</a>
                     </p>
 
                 </div>
